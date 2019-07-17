@@ -7,13 +7,13 @@
 	<name>sakai-acadtermmanage - Base</name>
 	<groupId>org.sakaiproject.acadtermmanage</groupId>
 	<artifactId>sakai-acadtermmanage</artifactId>	
-	<version>12-SNAPSHOT</version>
+	<version>19-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 	<parent>
 		<groupId>org.sakaiproject</groupId>
 		<artifactId>master</artifactId>
-		<version>12-SNAPSHOT</version>
+		<version>19-SNAPSHOT</version>
 		<relativePath />
 	</parent>
 
@@ -22,7 +22,7 @@
 		<my.wicket.version>6.29.0</my.wicket.version>
 		<my.lombok.version>1.16.10</my.lombok.version>
 		<my.logback.version>1.1.2</my.logback.version>
-		<sakai.kernel.version>12-SNAPSHOT</sakai.kernel.version>
+		<sakai.kernel.version>19-SNAPSHOT</sakai.kernel.version>
 	</properties>
 
 	<dependencyManagement>
